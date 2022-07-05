@@ -9,3 +9,5 @@ The profile and contigs databases. We produced the anvi'o contigs database utili
 
 Single-copy core genes in contigs. Among the contigs, we utilized the program anvi-run-hmms to find single-copy core genes for Bacteria, Archaea, and Eukarya, as well as ribosomal RNA sequences. The contigs database stores all these results as well. This data enables us to learn the completeness and redundancy estimations of freshly detected bins using the interactive interface. Note that if all single copy-core genes for a given domain are discovered once in the chosen bin, the completion rate is 100% and the redundancy rate is 0%. The redundancy score will rise if a few genes are discovered several times. In case a few genes are missing, the completion value will be reduced.
 
+
+Assigning functions towards genes. We performed anvi-run-ncbi-cogs and anvi-run-kegg-kofams and stored genes functions results in the contigs database. 
