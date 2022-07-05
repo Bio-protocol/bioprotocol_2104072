@@ -1,3 +1,5 @@
+Visualizing, Binning and Refining of MAGs With Anvi’o
+
 High throughput ‘omics technologies generate huge datasets that need to be properly analyzed in order to decipher the biological implications. The workflow of handling such datasets must be user-friendly to facilitate rapid analysis. Here, we demonstrated the use of the anvi’o workflow, which is a visualization platform and allows for advanced analysis for metagenomics data. In this protocol, we have provided the pre-packaged plant-microbiome dataset. Then we used the dataset to visualize, perform manual binning, and refinement of metagenome-assembled genomes (MAGs). Anvi’o works with an easy-to-use interface, and also helps the users to test and implement research ideas in a timely manner.
 To guide the readers, we have introduced the purposes of the dir system:
 graphs: the figures produced during the analysis.  
