@@ -27,6 +27,7 @@ conda --version
 	Always make sure that you work in an up-to-date conda environment by using the following command:
 Command:
 conda update conda
+
 (2)	Anvi’o environment setup
 	You should creat a new conda environment using the command:
 	Command:
